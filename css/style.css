@@ -160,7 +160,7 @@ button:focus {
 	background-clip: content-box, border-box;
 	background-image: linear-gradient(to bottom, #ccff00 0, #39FF14 100%), linear-gradient(to bottom, #ccff00, #39FF14);
 	border: double 2px transparent;
-	box-shadow: 0 10px 30px rgba(0, 255, 153, .5)
+	box-shadow: 0 10px 30px rgba(0, 255, 153, .3)
 }
 
 .primary_btn span {
@@ -822,7 +822,7 @@ button:focus {
 	margin-left: 10px;
 	margin: 0 10px 80px;
 	height: auto;
-	box-shadow: 0 7px 7px 0 rgba(63, 63, 63, .9);
+	box-shadow: 0 7px 7px 0 rgba(0, 255, 153, .9);
 	-webkit-transition: all .2s ease 0s;
 	-moz-transition: all .2s ease 0s;
 	-o-transition: all .2s ease 0s;
@@ -999,7 +999,7 @@ button:focus {
 		padding-top: 80px!important;
 		padding-bottom: 80px!important;
 		background-image: none!important;
-		background-color: #121212
+		background-color: #181818
 	}
 	.footer_area .col-sm-6 {
 		margin-bottom: 30px
