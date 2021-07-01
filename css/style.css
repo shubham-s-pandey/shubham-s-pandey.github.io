@@ -616,7 +616,7 @@ button:focus {
 	width: 170px;
 	height: 100px;
 	margin-bottom: 30px;
-	border: 1px solid #dcdcdc;
+	border: 1px solid #3d3d3d;
 	box-shadow: none;
 	-webkit-transition: all .2s ease-in-out 0s;
 	-moz-transition: all .2s ease-in-out 0s;
@@ -674,7 +674,7 @@ button:focus {
 .single-portfolio-item {
 	text-align: center;
 	padding: 20px;
-	border: 1px solid #dcdcdc;
+	border: 1px solid #3d3d3d;
 	box-shadow: none;
 	-webkit-transition: all .2s ease-in-out 0s;
 	-moz-transition: all .2s ease-in-out 0s;
