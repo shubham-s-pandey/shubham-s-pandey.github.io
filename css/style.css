@@ -833,7 +833,7 @@ box-shadow: 0 7px 7px 0 rgba(0, 0, 0, 1);
 	border-bottom: 1px solid #485461;
 background-color: #2d3436;
 background-image: linear-gradient(315deg, #181818 0%, #181818 74%);
-	box-shadow: 0 7px 7px 0 #28313B;
+	box-shadow: 0 3px 3px 0 #7CFFCB;
 	-webkit-transition: all .2s ease 0s;
 	-moz-transition: all .2s ease 0s;
 	-o-transition: all .2s ease 0s;
